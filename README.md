@@ -1,6 +1,6 @@
 ## Adidas US Sales Performance Analysis (2020 - 2021)
 ### 1. Project Overview
-This project provides a comprehensive analysis of Adidas sales data across the United States. Using a dataset of over 9,000 records, I developed an interactive executive dashboard to track revenue growth, profitability by product line, and regional market share.
+This project provides a comprehensive analysis of Adidas sales data across the United States. Using a dataset of over 9,637 records, I developed an interactive executive dashboard to track revenue growth, profitability by product line, and regional market share.
 
 Goal: To identify high-margin product categories and optimize sales channel strategies.
 
